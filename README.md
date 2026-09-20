@@ -46,11 +46,3 @@ pip install pandas numpy networkx matplotlib seaborn scikit-learn python-louvain
 *Note: The GIF generation cell (Cell #8) may take ~1 minute to render depending on your hardware.*
 
 ---
-
-## 📄 Submitting the Assignment
-
-To finalize the submission:
-1. Open **`Report.md`** and fill in your **Team Name**, **GitHub URL**, and **Team Members**.
-2. Open **`Report.html`** in a web browser (like Chrome or Firefox).
-3. Press `Ctrl + P` (or `Cmd + P` on Mac) and select **"Save to PDF"** to generate the final submission PDF.
-4. Push all these files (including the Notebook, PDF, and GIF) to your GitHub repository.
